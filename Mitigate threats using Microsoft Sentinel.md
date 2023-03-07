@@ -1,0 +1,62 @@
+# Mitigate threats using Microsoft Sentinel (50–55%)
+## Design and configure a Microsoft Sentinel workspace
+- Plan a Microsoft Sentinel workspace
+- Configure Microsoft Sentinel roles
+- Design and configure Microsoft Sentinel data storage
+- Implement and use Content hub, repositories, and community resources
+
+## Plan and implement the use of data connectors for ingestion of data sources in Microsoft Sentinel
+- Identify data sources to be ingested for Microsoft Sentinel
+- Identify the prerequisites for a Microsoft Sentinel data connector
+- Configure and use Microsoft Sentinel data connectors
+- Configure Microsoft Sentinel data connectors by using Azure Policy
+- Configure Microsoft Sentinel connectors for Microsoft 365 Defender and Microsoft Defender for Cloud
+- Design and configure Syslog and CEF event collections
+- Design and configure Windows Security event collections
+- Configure custom threat intelligence connectors
+
+## Manage Microsoft Sentinel analytics rules
+- Design and configure analytics rules
+- Activate Microsoft security analytics rules
+- Configure built-in scheduled queries
+- Configure custom scheduled queries
+- Define incident creation logic
+- Manage and use watchlists
+- Manage and use threat indicators
+
+## Perform data classification and normalization
+- Classify and analyze data by using entities
+- Create custom logs in Azure Log Analytics to store custom data
+- Query Microsoft Sentinel data by using Advanced SIEM Information Model (ASIM) parsers
+- Develop and manage ASIM parsers
+
+## Configure Security Orchestration, Automation, and Response (SOAR) in Microsoft Sentinel
+- Configure automation rules
+- Create and configure Microsoft Sentinel playbooks
+- Configure alerts and incidents to trigger automation
+- Use automation to remediate threats
+- Use automation to manage incidents
+
+## Manage Microsoft Sentinel incidents
+- Triage incidents in Microsoft Sentinel
+- Investigate incidents in Microsoft Sentinel
+- Respond to incidents in Microsoft Sentinel
+- Investigate multi-workspace incidents
+- Identify advanced threats with User and Entity Behavior Analytics (UEBA)
+
+## Use Microsoft Sentinel workbooks to analyze and interpret data
+- Activate and customize Microsoft Sentinel workbook templates
+- Create custom workbook
+- Configure advanced visualizations
+- View and analyze Microsoft Sentinel data using workbooks
+- Track incident metrics using the security operations efficiency workbook
+
+## Hunt for threats using Microsoft Sentinel
+- Create custom hunting queries
+- Run hunting queries manually
+- Monitor hunting queries by using Livestream
+- Configure and use MSTICPy in notebooks
+- Perform hunting by using notebooks
+- Track query results with bookmarks
+- Use hunting bookmarks for data investigations
+- Convert a hunting query to an analytical rule
